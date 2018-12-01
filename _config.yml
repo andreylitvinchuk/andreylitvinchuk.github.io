@@ -4,7 +4,7 @@ header_title: "No cats, pls"
 email:       andrey.litvinchuk@yandex.ru
 author:      Andrey Litvinchuk
 description: "Блог с мыслями, не более"
-baseurl:     "/jekyll-bootstrap4-docker"
+baseurl:     "/"
 url:         "https://andreylitvinchuk.github.io"
 date_format: "%-d.%m.%Y"
 
